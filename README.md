@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I accessed it here (https://reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment)
+
 ## Available Scripts
 
 In the project directory, you can run:
